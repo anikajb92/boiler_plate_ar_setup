@@ -1,0 +1,5 @@
+Show.create({title: "Queens Gambit", genre: "drama", lead_actor: "Anya Taylor Joy"})
+Show.create({title: "True Blood", genre: "thriller", lead_actor: "Anna Paquin"})
+Show.create({title: "Your Honor", genre: "drama", lead_actor: "Taylor Humm"})
+Show.create({title: "Walking Dead", genre: "comedy", lead_actor: "Bill Joe"})
+Show.create({title: "Mr. Robot", genre: "drama", lead_actor: "Johnny Rice"})
